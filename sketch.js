@@ -124,7 +124,7 @@ function captureWebcam() {
     }
   );
   capture.elt.setAttribute("playsinline", "");
-  // capture.hide();
+  capture.hide();
 }
 
 function setCameraDimensions() {
