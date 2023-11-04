@@ -1,2 +1,5 @@
 # 0005
-Handpose with lines
+Google MediaPipe Handpose with lines
+
+Sketches here:
+https://editor.p5js.org/amcc/sketches/hZPlNEMuC
